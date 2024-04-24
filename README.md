@@ -1,7 +1,6 @@
 
 # Cross-Testing-Binary-CNN-GRU-GAN-Amazon-Yelp
 
-Certainly! Here's a breakdown of the code and its components, which you can use to explain the process on your GitHub README.md page:
 
 ```markdown
 # Sentiment Analysis with Deep Learning
